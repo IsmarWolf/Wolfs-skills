@@ -1,0 +1,11 @@
+{
+  "name": "wolfs-skills",
+  "owner": { "name": "IsmarWolf", "url": "https://github.com/IsmarWolf" },
+  "plugins": [
+    {
+      "name": "wolfs-token-toolkit",
+      "source": { "source": "github", "repo": "IsmarWolf/Wolfs-token-toolkit" },
+      "description": "Build, compress and A/B-test prompts to spend fewer tokens on Claude."
+    }
+  ]
+}
